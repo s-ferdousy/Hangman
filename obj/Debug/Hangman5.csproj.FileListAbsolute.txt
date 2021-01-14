@@ -1,0 +1,10 @@
+E:\VS\Hangman5\bin\Debug\Hangman5.exe.config
+E:\VS\Hangman5\bin\Debug\Hangman5.exe
+E:\VS\Hangman5\bin\Debug\Hangman5.pdb
+E:\VS\Hangman5\obj\Debug\Hangman5.csprojAssemblyReference.cache
+E:\VS\Hangman5\obj\Debug\Hangman5.Form1.resources
+E:\VS\Hangman5\obj\Debug\Hangman5.Properties.Resources.resources
+E:\VS\Hangman5\obj\Debug\Hangman5.csproj.GenerateResource.cache
+E:\VS\Hangman5\obj\Debug\Hangman5.csproj.CoreCompileInputs.cache
+E:\VS\Hangman5\obj\Debug\Hangman5.exe
+E:\VS\Hangman5\obj\Debug\Hangman5.pdb
